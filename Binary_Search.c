@@ -12,6 +12,7 @@ int main()
             if(b<a[cen])    rigth=cen-1;
             else break;
         }*/
+        printf("sadasdas");
         if(b!=a[cen]) (b>a[cen])?(left=cen+1):(rigth=cen-1);
         else   break;
         cen=(left+rigth)/2;
