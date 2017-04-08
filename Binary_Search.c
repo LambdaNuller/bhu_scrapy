@@ -17,6 +17,4 @@ int main()
         else   break;
         cen=(left+rigth)/2;
     }
-    printf("Found it!:%d",cen+1);
-
 }
